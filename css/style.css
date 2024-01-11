@@ -1,0 +1,45 @@
+body {
+  background-color: #083b4c;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+}
+
+#container {
+  max-width: 1380px;
+  margin: 0 auto;
+}
+
+
+#wrapper-box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box-style {
+  padding: 2rem;
+  width: 100px;
+  height: 100px;
+  margin: 1rem;
+  background-color: #1389b2;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: center;
+  line-height: 6rem;
+}
+
+.Fizz-style {
+  background-color: #0cd6a1;
+}
+
+.Buzz-style {
+  background-color: #ffd166;
+}
+
+.Fizzbuzz-style {
+  background-color: #f0466f;
+}
