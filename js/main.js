@@ -1,9 +1,5 @@
 const wrapperBox = document.getElementById('wrapper-box');
 
-// const fizz = document.getElementById('fizz');
-// const buzz = document.getElementById('buzz');
-// const fizzbuzz = document.getElementById('fizzbuzz');
-
 let print = '';
 
 
