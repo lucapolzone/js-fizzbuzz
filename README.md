@@ -1,4 +1,4 @@
-Esercizio: Calcolo del prezzo del biglietto del treno (11/01/2024)
+# Esercizio: FizzBuzz (11/01/2024)
 nome repo: `js-fizzbuzz`
 
 # Consegna
